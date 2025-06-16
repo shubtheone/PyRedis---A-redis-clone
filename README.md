@@ -1,7 +1,7 @@
 # PyRedis Documentation
 ## Overview
 
-PyRedis is a simplified Redis-like in-memory data structure server implemented in Python. It provides core Redis functionality including multiple data types, key expiration, and a Redis-compatible command interface.
+PyRedis is a simplified Redis-like in-memory data structure server implemented in Python. It provides core Redis functionality including multiple data types, key expiration, and a Redis-compatible command interface. I've used lists and dictionaries to make the datatypes become more compatible.
 
 ![image](https://github.com/user-attachments/assets/ddcf4c27-d959-45be-a276-04fe84d18716)
 
